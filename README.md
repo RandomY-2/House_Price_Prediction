@@ -19,11 +19,11 @@ After creating additional variables and tuning the paramaters, the model achieve
 Here are some of properties of the dataset I examined
 
 <p align="left">
-  <img width="800" height="90" src="https://github.com/RandomY-2/House_Price_Prediction/blob/main/images/data_shape.jpg">
+  <img width="800" height="100" src="https://github.com/RandomY-2/House_Price_Prediction/blob/main/images/data_shape.jpg">
 </p>
 
 <p align="left">
-  <img width="800" height="200" src="https://github.com/RandomY-2/House_Price_Prediction/blob/main/images/data_missing.jpg">
+  <img width="800" height="220" src="https://github.com/RandomY-2/House_Price_Prediction/blob/main/images/data_missing.jpg">
 </p>
 
 <p align="left">
