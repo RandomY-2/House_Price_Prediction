@@ -23,7 +23,7 @@ Here are some of properties of the dataset I examined
 </p>
 
 <p align="left">
-  <img width="800" height="240" src="https://github.com/RandomY-2/House_Price_Prediction/blob/main/images/data_missing.jpg">
+  <img width="800" height="300" src="https://github.com/RandomY-2/House_Price_Prediction/blob/main/images/data_missing.jpg">
 </p>
 
 <p align="left">
@@ -32,6 +32,10 @@ Here are some of properties of the dataset I examined
  
 <p align="left">
   <img width="800" height="600" src="https://github.com/RandomY-2/House_Price_Prediction/blob/main/images/overallcond_price.jpg">
+</p>
+
+<p align="left">
+  <img width="800" height="200" src="https://github.com/RandomY-2/House_Price_Prediction/blob/main/images/totalBsmt_box.jpg">
 </p>
 
  ## Prediction
